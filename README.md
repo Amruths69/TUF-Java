@@ -6,17 +6,18 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **1** | 0 | 1 | 0 | `2026-10-13` |
+| **2** | 0 | 2 | 0 | `2026-10-13` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (1)
+### DSA (2)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
 | 0001 | [896. Pattern 1](./DSA/General/pattern-1) | [JAVA](./DSA/General/pattern-1/solution.java) | ⚪ Unspecified | `General` | `2026-10-13` |
+| 0002 | [953. Pattern 2](./DSA/General/pattern-2) | [JAVA](./DSA/General/pattern-2/solution.java) | ⚪ Unspecified | `General` | `2026-10-13` |
 
 ---
 
